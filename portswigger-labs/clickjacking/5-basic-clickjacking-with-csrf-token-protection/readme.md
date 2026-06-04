@@ -1,6 +1,6 @@
 # Basic Clickjacking with CSRF Token Protection
 
-[Lab Link](https://portswigger.net/web-security/clickjacking/lab-basic-csrf-protected)
+[Lab Link](https://portswigger.net/web-security/learning-paths/clickjacking/clickjacking-how-to-construct-a-basic-clickjacking-attack/clickjacking/lab-basic-csrf-protected)
 
 **Difficulty:** Apprentice
 
